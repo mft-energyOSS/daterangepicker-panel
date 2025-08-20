@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2
+
+### Fixed
+
+- build attestation
+
 ## 1.0.1
 
 ### Fixed
