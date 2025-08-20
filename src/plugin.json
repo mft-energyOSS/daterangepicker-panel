@@ -5,7 +5,7 @@
   "id": "mft-daterangepicker-panel",
   "info": {
     "keywords": ["panel"],
-    "description": "",
+    "description": "A date range picker with time defaults and timezone pickers.",
     "author": {
       "name": "arf@mft"
     },
