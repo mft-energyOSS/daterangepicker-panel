@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "MFT Date Range Picker",
-  "id": "mft-daterangepicker-panel",
+  "id": "mftit-daterangepicker-panel",
   "info": {
     "keywords": ["panel"],
     "description": "A date range picker with time defaults and timezone pickers.",

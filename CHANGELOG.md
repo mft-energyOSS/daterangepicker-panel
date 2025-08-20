@@ -1,6 +1,10 @@
 # Changelog
 
+## 1.0.1
 
+### Fixed
+
+- plugin id to have mftit in it
 
 ## 1.0.0
 
