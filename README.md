@@ -1,12 +1,6 @@
-# Grafana panel plugin template
+# Grafana daterangepicker panel
 
-This template is a starting point for building a panel plugin for Grafana.
-
-## What are Grafana panel plugins?
-
-Panel plugins allow you to add new types of visualizations to your dashboard, such as maps, clocks, pie charts, lists, and more.
-
-Use panel plugins when you want to do things like visualize data returned by data source queries, navigate between dashboards, or control external systems (such as smart home devices).
+This template improves upon the default date picker with other defaults and timezone pickers
 
 ## Getting started
 
